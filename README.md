@@ -1,9 +1,8 @@
 ## Hi there 👋
-I' am Full-stack developer working in Limerick, Ireland
-<img align='right' src="https://media.giphy.com/media/Vbn7PUTxaB6dVnVa2h/giphy.gif" width="230">
-
-[![Linkedin: denisdzinic](https://img.shields.io/badge/-denisdzinic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-dzinic/)](https://www.linkedin.com/in/denis-dzinic/)
+I' am Full-stack developer working in Limerick, Ireland [![Linkedin: denisdzinic](https://img.shields.io/badge/-denisdzinic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-dzinic/)](https://www.linkedin.com/in/denis-dzinic/)
 [![GitHub Denis](https://img.shields.io/github/followers/thug1705?label=follow&style=social)](https://github.com/thug1705)
+
+<img align='right' src="https://media.giphy.com/media/Vbn7PUTxaB6dVnVa2h/giphy.gif" width="230">
 
 ***A little bit about myself...***
 ````javascript
